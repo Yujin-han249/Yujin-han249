@@ -77,6 +77,9 @@
   <a href="https://linkedin.com/in/본인ID">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+
+
+[유니티 룰렛게임](https://velog.io/@username)
 </p>
 
 <p align="right">
