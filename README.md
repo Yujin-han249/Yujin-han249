@@ -79,7 +79,7 @@
   </a>
 
 
-[유니티 룰렛게임]([https://velog.io/@username](https://github.com/Yujin-han249/Roullte))
+[유니티 룰렛게임](https://github.com/Yujin-han249/Roullte)
 </p>
 
 <p align="right">
