@@ -1,4 +1,4 @@
-# 🚀 Welcome to [이름]'s Dev Space!
+# 🚀 Welcome to Yujin's Dev Space!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn" />
