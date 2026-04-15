@@ -1,7 +1,7 @@
 # 🚀 Welcome to Yujin's Dev Space!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:00C8FF,50:00E676,100:FFEA00&height=200&section=header&text=COOL%20WAVE%20🚀&fontSize=70&fontColor=fff&animation=twinkling" alt="Cool Wave Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
