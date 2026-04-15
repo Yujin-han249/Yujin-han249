@@ -1,7 +1,7 @@
 # 🚀 Welcome to Yujin's Dev Space!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repository-name/main/cool-banner.gif" alt="Cool and Dynamic GitHub Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:00C8FF,50:00E676,100:FFEA00&height=200&section=header&text=WELCOME!%20🚀&fontSize=70&fontColor=fff&animation=twinkling" alt="Cool Banner" />
 </p>
 
 <p align="center">
