@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn" />
 </p>
 
-# 이 코드를 복사해서 리드미 맨 위에 붙여넣으세요!
-
 <img src="https://capsule-render.vercel.app/render?type=ws&color=auto&height=120&section=header&text=나의%20깃허브에%20오신%20걸%20환영합니다!&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Header" />
 
 <p align="center">
