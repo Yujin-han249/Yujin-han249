@@ -1,7 +1,6 @@
 # 🚀 Welcome to Yujin's Dev Space!
 
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&height=150&lines=HELLO+GITHUB!+👋;WELCOME+TO+MY+SPACE;PAINTS+THE+CODE+🎨&background=00000000&color=F7DF1E&color=6DA55F" alt="Typing SVG" />
 </p>
