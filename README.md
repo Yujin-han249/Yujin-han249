@@ -1,9 +1,7 @@
 # 🚀 Welcome to Yujin's Dev Space!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WELCOME-BLUE_GREEN_YELLOW-success?style=for-the-badge&logo=github&logoColor=white&color=36BCF7" />
-  <img src="https://img.shields.io/badge/CREATIVE-DEVELOPER-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HAPPY-CODING-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://raw.githubusercontent.com/username/repository-name/main/cool-banner.gif" alt="Cool and Dynamic GitHub Banner" width="100%">
 </p>
 
 <p align="center">
