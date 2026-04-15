@@ -1,11 +1,11 @@
 # 🚀 Welcome to Yujin's Dev Space!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=500&color=00C8FF&center=true&vCenter=true&width=600&height=100&lines=WELCOME+TO+MY+GITHUB+SPACE!;EXPLORE+COOL+PROJECTS+✨" />
-  <br>
-  <img src="https://img.shields.io/badge/COOL-BLUE-00C8FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/FRESH-GREEN-00E676?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/BRIGHT-YELLOW-FFEA00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0ZWF4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lTfux7uY9bA6qY/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=200&color=00C8FF&center=true&vCenter=true&width=800&height=100&lines=BOOM!+DYNAMIC+SPACE+🚀;COOL+GREEN+AND+YELLOW+✨" />
 </p>
 
 <p align="center">
