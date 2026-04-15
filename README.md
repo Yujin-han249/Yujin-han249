@@ -1,10 +1,10 @@
 # 🚀 Welcome to Yujin's Dev Space!
 
-'<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn" />
-</p>'
+</p>
 
-<img src="https://capsule-render.vercel.app/render?type=ws&color=auto&height=120&section=header&text=나의%20깃허브에%20오신%20걸%20환영합니다!&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Header" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Creative+Problem+Solver;Continuous+Learner" />
