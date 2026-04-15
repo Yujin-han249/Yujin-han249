@@ -1,11 +1,7 @@
 # 🚀 Welcome to Yujin's Dev Space!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0ZWF4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZGR4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lTfux7uY9bA6qY/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=200&color=00C8FF&center=true&vCenter=true&width=800&height=100&lines=BOOM!+DYNAMIC+SPACE+🚀;COOL+GREEN+AND+YELLOW+✨" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:00C8FF,50:00E676,100:FFEA00&height=200&section=header&text=COOL%20WAVE%20🚀&fontSize=70&fontColor=fff&animation=twinkling" alt="Cool Wave Banner" />
 </p>
 
 <p align="center">
