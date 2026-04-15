@@ -1,7 +1,11 @@
 # 🚀 Welcome to Yujin's Dev Space!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:00C8FF,50:00E676,100:FFEA00&height=200&section=header&text=WELCOME!%20🚀&fontSize=70&fontColor=fff&animation=twinkling" alt="Cool Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=500&color=00C8FF&center=true&vCenter=true&width=600&height=100&lines=WELCOME+TO+MY+GITHUB+SPACE!;EXPLORE+COOL+PROJECTS+✨" />
+  <br>
+  <img src="https://img.shields.io/badge/COOL-BLUE-00C8FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FRESH-GREEN-00E676?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/BRIGHT-YELLOW-FFEA00?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
