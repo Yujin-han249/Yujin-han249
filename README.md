@@ -1,7 +1,7 @@
 # 🚀 Welcome to Yujin's Dev Space!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:36BCF7,50:6DA55F,100:F7DF1E&height=180&section=header&text=WELCOME&fontSize=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:36BCF7,50:6DA55F,100:F7DF1E&height=180&section=header&text=WELCOME&fontSize=60&fontColor=ffffff&re=1" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Creative+Problem+Solver;Continuous+Learner" />
